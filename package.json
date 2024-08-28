@@ -1,0 +1,17 @@
+{
+  "name": "devexpress-repro",
+  "packageManager": "yarn@3.6.4",
+  "private": true,
+  "type": "commonjs",
+  "workspaces": {
+    "packages": [
+      "sub"
+    ]
+  },
+  "comment": "We cannot fulfill the peer dependency on @devexpress/dx-core according to yarn, even if defined here.",
+  "dependencies": {
+    "@devexpress/dx-core": "4.0.8",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}

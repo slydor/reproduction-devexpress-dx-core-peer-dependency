@@ -1,0 +1,19 @@
+{
+  "name": "sub",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "main": "src/js",
+  "type": "module",
+  "dependencies": {
+    "@devexpress/dx-core": "4.0.8",
+    "@devexpress/dx-grid-core": "4.0.8",
+    "@devexpress/dx-react-chart": "4.0.8",
+    "@devexpress/dx-react-core": "4.0.8",
+    "@devexpress/dx-react-grid": "4.0.8",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}
