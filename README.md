@@ -1,3 +1,6 @@
+# Update
+The core issue is fixed with v4.0.9 and this repository is not needed anymore. See the tracking issue of DevExpress: https://supportcenter.devexpress.com/ticket/details/t1250987/reactive-yn0002-warning-appears-on-an-attempt-to-restore-the-dx-react-chart-package-with
+
 # Reproduction repository
 
 This project reproduces an issue of peer dependencies in `@devexpress` packages in combination with yarn workspace packages.
